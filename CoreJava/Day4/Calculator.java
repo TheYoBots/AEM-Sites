@@ -23,7 +23,7 @@ public class Calculator {
 //				// TODO: handle exception
 //			}
  
-		}catch (Exception e) {
+		} catch (Exception e) {
 			System.out.println("Call to a service provider");
 			e.printStackTrace();
 		}
