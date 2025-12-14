@@ -1,4 +1,4 @@
-package Day41;
+package Day42;
 
 import java.util.SortedMap;
 import java.util.TreeMap;

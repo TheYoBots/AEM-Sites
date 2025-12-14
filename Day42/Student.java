@@ -1,4 +1,4 @@
-package Day41;
+package Day42;
 
 public class Student implements Comparable<Student> {
     int rollNo;
@@ -13,7 +13,7 @@ public class Student implements Comparable<Student> {
     }
 
     @Override
-    public int compareTo(student o) {
+    public int compareTo(Student o) {
         if (this.rollNo > o.rollNo)
             return 1;
         else if (this.rollNo < o.rollNo)
