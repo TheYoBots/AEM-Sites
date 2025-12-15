@@ -5,7 +5,7 @@ import java.util.TreeMap;
 
 public class SortedMapDemo {
     public static void main(String[] args) {
-        SortedMap map = new TreeMap<>();
+        SortedMap map = new TreeMap();
 
         map.put(11, 234);
         map.put(2, 454.6);
